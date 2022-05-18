@@ -28,7 +28,7 @@ yarn dev
 
 In-house authentication built from scratch with signup/login session cookies and jwt token. All user information will be stored in PostgreSQL database.
 
-<img src="./nfc-2022.vercel.app_.png" alt="preview" />
+<img src="./nfc-2022.vercel.app_1.png" alt="preview" />
 
 ## Home 
 
