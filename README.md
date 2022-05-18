@@ -21,3 +21,7 @@ git checkout -b jolly
 ```shell
 yarn dev
 ```
+
+# Preview
+
+<img src="./nfc-2022.vercel.app_.png" alt="preview" />
